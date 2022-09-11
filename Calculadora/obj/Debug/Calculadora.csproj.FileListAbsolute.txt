@@ -1,0 +1,11 @@
+E:\Rafael\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Rafael\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Rafael\C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Rafael\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+E:\Rafael\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+E:\Rafael\C#\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+E:\Rafael\C#\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Rafael\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+E:\Rafael\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\Rafael\C#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Rafael\C#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
